@@ -1,0 +1,5 @@
+<root>
+    <item name='net.sf.jasperreports.engine.JREmptyDataSource'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
